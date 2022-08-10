@@ -1,0 +1,15 @@
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\bin\Debug\net6.0\SolidWorksMacro.deps.json
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\bin\Debug\net6.0\SolidWorksMacro.dll
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\bin\Debug\net6.0\SolidWorksMacro.pdb
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\bin\Debug\net6.0\SolidWorks.Interop.sldworks.dll
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\bin\Debug\net6.0\SolidWorks.Interop.swpublished.dll
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.csproj.AssemblyReference.cache
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.AssemblyInfoInputs.cache
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.AssemblyInfo.cs
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.csproj.CoreCompileInputs.cache
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.csproj.CopyComplete
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.dll
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\refint\SolidWorksMacro.dll
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\SolidWorksMacro.pdb
+D:\DevProject\14- SolidWorks Macro - Amen\SolidWorksMacro\SolidWorksMacro\obj\Debug\net6.0\ref\SolidWorksMacro.dll
